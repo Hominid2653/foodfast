@@ -1,3 +1,12 @@
+Metadata-Version: 2.4
+Name: foodfast
+Version: 1.0.0
+Summary: FoodFast inventory management API and CLI
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown
+Requires-Dist: Flask>=3.1
+Requires-Dist: requests>=2.34
+
 # FoodFast — Inventory Management API
 
 A Flask REST API for managing retail inventory. Employees can add, view, update, and delete inventory items. Product details can be fetched from the [OpenFoodFacts](https://world.openfoodfacts.org/) API by barcode or name and imported into the local inventory.
