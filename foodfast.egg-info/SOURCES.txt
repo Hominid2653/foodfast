@@ -1,0 +1,15 @@
+README.md
+app.py
+cli.py
+openfoodfacts_client.py
+pyproject.toml
+store.py
+foodfast.egg-info/PKG-INFO
+foodfast.egg-info/SOURCES.txt
+foodfast.egg-info/dependency_links.txt
+foodfast.egg-info/entry_points.txt
+foodfast.egg-info/requires.txt
+foodfast.egg-info/top_level.txt
+tests/test_api.py
+tests/test_cli.py
+tests/test_openfoodfacts.py
